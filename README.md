@@ -13,6 +13,6 @@ My own simple version of a todolist.
 * Date
 * Time
 * Stores the information forever until you decide
-to remove it.
+to remove it or change your browser/device.
 
 
